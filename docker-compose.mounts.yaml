@@ -1,0 +1,4 @@
+services:
+  web:
+    volumes:
+      - "$HOME/sites:/home/yves/sites"
